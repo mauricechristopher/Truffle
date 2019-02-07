@@ -1,2 +1,1 @@
-# TrufflePractice
-Learning Truffle
+# Truffle Stuff
